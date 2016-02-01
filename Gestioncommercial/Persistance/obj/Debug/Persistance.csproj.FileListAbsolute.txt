@@ -1,0 +1,23 @@
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\obj\Debug\Persistance.csprojResolveAssemblyReference.cache
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Debug\Persistance.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Debug\Persistance.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Debug\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Debug\Utilitaires.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\obj\Debug\Persistance.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\obj\Debug\Persistance.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\bin\Debug\Persistance.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\bin\Debug\Persistance.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\bin\Debug\MySql.Data.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\bin\Debug\Utilitaires.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\obj\Debug\Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\obj\Debug\Persistance.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Persistance\obj\Debug\Persistance.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\bin\Debug\Persistance.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\bin\Debug\Persistance.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\bin\Debug\MySql.Data.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\bin\Debug\Utilitaires.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\obj\Debug\Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\obj\Debug\Persistance.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Persistance\obj\Debug\Persistance.pdb

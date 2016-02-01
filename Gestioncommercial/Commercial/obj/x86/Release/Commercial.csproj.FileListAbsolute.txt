@@ -1,0 +1,93 @@
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Commercial.exe.config
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Metier.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\ResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FajouteArticle.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FajouteCdes.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FDetailsCde.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FListeArticles.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FListeCdes.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.Prix.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Fvendeur.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Faccueil.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Fclient.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Properties.Resources.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\GenerateResource.read.1.tlog
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\GenerateResource.write.1.tlog
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\2012-2013\tp3\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Commercial.exe.config
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Metier.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FajouteArticle.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FajouteCdes.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FDetailsCde.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FListeArticles.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FListeCdes.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.Prix.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Fvendeur.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Faccueil.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Fclient.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.Properties.Resources.resources
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Commercial\obj\x86\Release\Commercial.csproj.GenerateResource.Cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Commercial.exe.config
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Metier.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FajouteArticle.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FajouteCdes.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FDetailsCde.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FListeArticles.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.FListeCdes.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Presentation.Prix.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Fvendeur.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Faccueil.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Fclient.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.Properties.Resources.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Commercial\obj\x86\Release\Commercial.csproj.GenerateResource.Cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Commercial.exe.config
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Commercial.exe
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Commercial.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Metier.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Presentation.FajouteArticle.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Presentation.FajouteCdes.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Presentation.FDetailsCde.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Presentation.FListeArticles.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Presentation.FListeCdes.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Presentation.Prix.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Fvendeur.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Faccueil.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Fclient.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.Properties.Resources.resources
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Commercial\obj\x86\Release\Commercial.csproj.GenerateResource.Cache

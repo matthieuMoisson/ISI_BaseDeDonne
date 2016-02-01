@@ -1,0 +1,29 @@
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Debug\Metier.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Debug\Metier.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\obj\Debug\Metier.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\obj\Debug\Metier.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Debug\Persistance.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Debug\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Debug\Persistance.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\bin\Debug\Metier.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\bin\Debug\Metier.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\bin\Debug\MySql.Data.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\bin\Debug\Persistance.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\bin\Debug\Utilitaires.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\bin\Debug\Persistance.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\obj\Debug\Metier.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Metier\obj\Debug\Metier.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\bin\Debug\Metier.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\bin\Debug\Metier.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\bin\Debug\MySql.Data.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\bin\Debug\Persistance.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\bin\Debug\Utilitaires.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\bin\Debug\Persistance.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\obj\Debug\Metier.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Metier\obj\Debug\Metier.pdb

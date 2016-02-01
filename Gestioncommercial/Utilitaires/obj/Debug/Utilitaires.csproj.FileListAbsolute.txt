@@ -1,0 +1,17 @@
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\bin\Debug\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\bin\Debug\Utilitaires.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\obj\Debug\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\obj\Debug\Utilitaires.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\obj\Debug\Utilitaires.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Utilitaires\bin\Debug\Utilitaires.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Utilitaires\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Utilitaires\bin\Debug\MySql.Data.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Utilitaires\obj\Debug\Utilitaires.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Utilitaires\obj\Debug\Utilitaires.dll
+C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Utilitaires\obj\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Utilitaires\bin\Debug\Utilitaires.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Utilitaires\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Utilitaires\bin\Debug\MySql.Data.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Utilitaires\obj\Debug\Utilitaires.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Utilitaires\obj\Debug\Utilitaires.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Utilitaires\obj\Debug\Utilitaires.pdb

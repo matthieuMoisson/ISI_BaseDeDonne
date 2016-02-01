@@ -1,0 +1,21 @@
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Release\Persistance.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Release\Persistance.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Release\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\bin\Release\Utilitaires.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\obj\Release\Persistance.csprojResolveAssemblyReference.cache
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\obj\Release\Persistance.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Persistance\obj\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Persistance\obj\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Persistance\obj\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Persistance\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Persistance\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Persistance\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Persistance\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Persistance\obj\Release\Persistance.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Persistance\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Persistance\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Persistance\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Persistance\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Persistance\obj\Release\Persistance.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Persistance\obj\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Persistance\obj\Release\Persistance.pdb

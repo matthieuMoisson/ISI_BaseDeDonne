@@ -1,0 +1,36 @@
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Release\Metier.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Release\Metier.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Release\Persistance.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Release\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Release\Persistance.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\bin\Release\Utilitaires.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\obj\Release\Metier.csprojResolveAssemblyReference.cache
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\obj\Release\Metier.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Metier\obj\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\bin\Release\Metier.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\bin\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\obj\Release\Metier.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\obj\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Metier\obj\Release\Metier.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\bin\Release\Metier.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\bin\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\obj\Release\Metier.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\obj\Release\Metier.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Metier\obj\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\bin\Release\Metier.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\bin\Release\Metier.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\bin\Release\Persistance.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\bin\Release\Persistance.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\obj\Release\Metier.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\obj\Release\Metier.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\Gestioncommerciale_TP\Metier\obj\Release\Metier.pdb

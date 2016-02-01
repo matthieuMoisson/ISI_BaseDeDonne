@@ -1,0 +1,14 @@
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\bin\Release\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\bin\Release\Utilitaires.pdb
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\obj\Release\Utilitaires.dll
+D:\Thib\SkyDrive\Scolaire\SI\Commercial\Utilitaires\obj\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Utilitaires\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Utilitaires\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Utilitaires\obj\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Utilitaires\obj\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\2012-2013\tp1conserves\LAZERT_Thibault_Gestioncommerciale_janvier2013\Utilitaires\obj\Release\Utilitaires.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Utilitaires\bin\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Utilitaires\bin\Release\Utilitaires.pdb
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Utilitaires\obj\Release\Utilitaires.csprojResolveAssemblyReference.cache
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Utilitaires\obj\Release\Utilitaires.dll
+D:\epul\isi cours 1ere anne\sujets tp\tp c#\client serveur\GestioncommercialeTL_janvier2013\Utilitaires\obj\Release\Utilitaires.pdb
