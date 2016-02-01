@@ -198,8 +198,52 @@ namespace Commercial
             }
 
         }
+        /// <summary>
+        /// Ouvre la fenêtre liste des commandes
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void listeCommandesToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            FListeCdes cdes = new FListeCdes();
+            cdes.ShowDialog();
+        }
 
-      
+        private void augmenterLesPrixToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Prix modifprix = new Prix();
+            if (modifprix.ShowDialog() == DialogResult.OK) { }
+        }
 
+        private void listeArticlesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FListeArticles f = new FListeArticles();
+            f.ShowDialog();
+        }
+
+        private void supprimerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FListeCdes cdes = new FListeCdes();
+            cdes.ShowDialog();
+        }
+
+        private void ajouterToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Commande cmd = new Commande();
+            FajouteCdes newCmd = new FajouteCdes(cmd, true);
+            DialogResult res = newCmd.ShowDialog();
+            if (res == DialogResult.OK)
+            {
+                try
+                {
+                    cmd.ajouterCommande();
+                    MessageBox.Show("Commande ajouté avec succès.");
+                }
+                catch (MonException excep)
+                {
+                    MessageBox.Show(excep.MessageSysteme(), "Erreur d'ajout");
+                }
+            }
+        }
     }
 }

@@ -72,7 +72,7 @@ namespace Commercial.Presentation
             {
                 tb_noart.Enabled = false;
                 lbl_titre.Text = "Modifier un article";
-                this.Text = "Modifier una article";
+                this.Text = "Modifier un article";
             }
             testSubmitPossible();
         }
@@ -162,7 +162,6 @@ namespace Commercial.Presentation
             _art.Ville_art = tb_ville.Text;
             _art.Prix_art = tb_prix.Text;
             _art.Interrompu = (rb_f_oui.Checked ? "T" : "F");
-
             this.Close();
         }
 

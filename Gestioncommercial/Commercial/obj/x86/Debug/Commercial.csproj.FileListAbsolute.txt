@@ -25,3 +25,27 @@ C:\Users\Matthieu\Downloads\Nouveau dossier\Gestioncommercial\Commercial\obj\x86
 C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Commercial.exe.config
 C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.exe
 C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Commercial.exe
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Commercial.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Metier.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Utilitaires.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\MySql.Data.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Persistance.dll
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Metier.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Utilitaires.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\bin\Debug\Persistance.pdb
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.csprojResolveAssemblyReference.cache
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Presentation.FajouteArticle.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Presentation.FajouteCdes.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Presentation.FDetailsCde.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Presentation.FListeArticles.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Presentation.FListeCdes.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Presentation.Prix.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Fvendeur.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Faccueil.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Fclient.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.Properties.Resources.resources
+C:\Users\Matthieu\Documents\Ecole\Informatique 3A 2015-2016\S5\ISI\TP ISI Gestion Commercial\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.csproj.GenerateResource.Cache
+C:\Users\Matthieu\Documents\GitHub\ISI_BaseDeDonne\ISI_BaseDeDonne\Gestioncommercial\Commercial\bin\Debug\Commercial.exe.config
+C:\Users\Matthieu\Documents\GitHub\ISI_BaseDeDonne\ISI_BaseDeDonne\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.exe
+C:\Users\Matthieu\Documents\GitHub\ISI_BaseDeDonne\ISI_BaseDeDonne\Gestioncommercial\Commercial\obj\x86\Debug\Commercial.pdb

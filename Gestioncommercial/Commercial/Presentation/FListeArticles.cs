@@ -138,6 +138,7 @@ namespace Commercial.Presentation
 
         private void menu_tri_no_Click(object sender, EventArgs e)
         {
+            decocherTris();
             menu_tri_no.Checked = true;
             tri = "NO_ARTICLE";
 
@@ -145,6 +146,7 @@ namespace Commercial.Presentation
         }
         private void menu_tri_libelle_Click(object sender, EventArgs e)
         {
+            decocherTris();
             menu_tri_libelle.Checked = true;
             tri = "LIB_ARTICLE";
 
@@ -152,6 +154,7 @@ namespace Commercial.Presentation
         }
         private void menu_tri_quantite_Click(object sender, EventArgs e)
         {
+            decocherTris();
             menu_tri_quantite.Checked = true;
             tri = "QTE_DISPO";
 
@@ -159,6 +162,7 @@ namespace Commercial.Presentation
         }
         private void menu_tri_ville_Click(object sender, EventArgs e)
         {
+            decocherTris();
             menu_tri_ville.Checked = true;
             tri = "VILLE_ART";
 
@@ -166,6 +170,7 @@ namespace Commercial.Presentation
         }
         private void menu_tri_prix_Click(object sender, EventArgs e)
         {
+            decocherTris();
             menu_tri_prix.Checked = true;
             tri = "PRIX_ART";
 
@@ -173,6 +178,7 @@ namespace Commercial.Presentation
         }
         private void menu_tri_interrompu_Click(object sender, EventArgs e)
         {
+            decocherTris();
             menu_tri_interrompu.Checked = true;
             tri = "INTERROMPU";
 

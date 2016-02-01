@@ -79,7 +79,6 @@ namespace Metier
             String mysql;
             try
             {
-                
                 /*
                  * Code SQL de création de la procédure stockée :
                  
@@ -90,13 +89,8 @@ namespace Metier
                  END
                  
                 */
-
                 // appel de la procédure stockée
                 mysql = "CALL modifier_prix(" + pourcentage + ");";
-
-                // mais si la procédure n'existe pas ...
-                mysql = "UPDATE articles SET prix_art = prix_art * ( 1 + "+pourcentage+" /100 );";
-                
                 dt = DbInterface.Lecture(mysql, err);
             }
             catch (MonException erreur)
@@ -169,20 +163,9 @@ namespace Metier
             String mysql;
             try
             {
-                // enregistrer les détails de l'article
-                mysql = "INSERT INTO ARTICLES (NO_ARTICLE, LIB_ARTICLE, QTE_DISPO, VILLE_ART, PRIX_ART, INTERROMPU) VALUES ('";
-                mysql += this.no_article;
-                mysql += "', '";
-                mysql += this.lib_article;
-                mysql += "', '";
-                mysql += this.qte_dispo;
-                mysql += "', '";
-                mysql += this.ville_art;
-                mysql += "', '";
-                mysql += this.prix_art;
-                mysql += "', '";
-                mysql += this.interrompu;
-                mysql += "');";
+                mysql = "INSERT INTO ARTICLES (NO_ARTICLE, LIB_ARTICLE, QTE_DISPO, VILLE_ART, PRIX_ART, INTERROMPU) VALUES ('" 
+                    + "', '" + this.lib_article+"', '"+this.qte_dispo+ "', '"+this.ville_art+"', '"+this.prix_art+"', '"+this.interrompu
+                    +"');";
                 dt = DbInterface.Lecture(mysql, err);
 
             }

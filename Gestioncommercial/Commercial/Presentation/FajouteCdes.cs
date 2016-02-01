@@ -25,20 +25,43 @@ namespace Commercial.Presentation
         /// <summary>
         /// Initialiser
         /// </summary>
-        public FajouteCdes()
+        public FajouteCdes(Commande cmd, bool modifier)
         {
             InitializeComponent();
-            _cmd = new Commande();
+            _cmd = cmd;
 
             // Actions des boutons
             this.AcceptButton = submit_button;
             submit_button.DialogResult = DialogResult.OK;
             btn_cancel.DialogResult = DialogResult.Cancel;
-
             ChargerDonnees();
+
+            this.tb_nocmd.Text = _cmd.NoCommande;
+            cb_novendeur.SelectedIndex = cb_novendeur.FindStringExact(cmd.Vendeur.NoVendeur);
+            cb_noclient.SelectedIndex = cb_noclient.FindStringExact(cmd.Client.NoCl);
+            dtp_date.Value = cmd.DateCommande;
+
+            if (_cmd.Facture == "F")
+            {
+                rb_f_non.Checked = true;
+                rb_f_oui.Checked = false;
+            }
+            else
+            {
+                rb_f_oui.Checked = true;
+                rb_f_non.Checked = false;
+            }
+
+            if (!modifier)
+            {
+                tb_nocmd.Enabled = false;
+                lbl_titre.Text = "Modifier une commande";
+                this.Text = "Modifier une commande";
+            }
+            testSubmitPossible();
         }
 
-       
+
         /// <summary>
         /// Charger les données pour les listes déroulantes de clients et vendeurs
         /// </summary>
@@ -98,16 +121,46 @@ namespace Commercial.Presentation
             }
         }
 
+        private void btn_cancel_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void submit_button_Click(object sender, EventArgs e)
+        {
+            _cmd.NoCommande = tb_nocmd.Text;
+            _cmd.Client.NoCl = cb_noclient.SelectedItem.ToString();
+            _cmd.Vendeur.NoVendeur = cb_novendeur.SelectedItem.ToString();
+            _cmd.DateCommande = dtp_date.Value;
+        }
+
+        private void tb_nocmd_TextChanged(object sender, EventArgs e)
+        {
+            testSubmitPossible();
+        }
+
+        private void cb_novendeur_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            testSubmitPossible();
+        }
+
+        private void cb_noclient_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            testSubmitPossible();
+        }
+
         /// <summary>
-      
+        /// Vérifier si le formulaire est prêt à être validé
+        /// </summary>
+        private void testSubmitPossible()
+        {
+            bool resultat = true;
+            if (tb_nocmd.Text.Length == 0)resultat = false;
+            if (cb_novendeur.Text.Length == 0)resultat = false;
+            if (cb_noclient.Text.Length == 0)resultat = false;
+            submit_button.Enabled = resultat;
+        }
 
-        
 
-       
-
-
-       
-
-       
     }
 }
